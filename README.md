@@ -11,3 +11,7 @@ För väl godkänt ska du  även beskriva vad som skiljer i tillvägagångssätt
 För väl godkänt ska du:
 *Diskutera kring körtid för binära träd vs splay träd
 *Beskriva skillnaden i implementation mellan ett AVL-träd och ett Splay-träd för en programmerare
+
+
+teoridelen
+======
